@@ -8,6 +8,7 @@
   --laranja:#ED9B00;
   --azul-degrade: linear-gradient(97.54deg, #002f52  35.49%, #3265B9 165.37%);
   --font-principal:"Poppins";
+  --azul:#002f52;
 }
 
 *{
