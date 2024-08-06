@@ -52,3 +52,14 @@
     .descricao__texto{
         font-size: 14px;
     }
+    .botoes__item{
+        margin: 0 0.5em;
+        list-style-type: none;
+    }
+    .botoes__ancora{
+        background-color: var(--laranja);
+        padding: 1em 2.2em;
+        color: white;
+        font-weight: 700;
+        text-decoration: none;
+    }
